@@ -1,0 +1,2 @@
+On java compilation-
+Java files(.java files) ---> compiles to bytecodes(.class files). These bytecodes are understood by JVM.
