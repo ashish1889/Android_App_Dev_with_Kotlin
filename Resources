@@ -28,3 +28,11 @@ https://github.com/OakAcademy/firebase-register-user-app-with-kotlin
 Firebase Quiz Game App:
 
 https://github.com/OakAcademy/quiz-game-app-with-firebase-kotlin
+
+What skills do I need to be an Android Developer?
+An Android developer works with the Android SDK (software development kit) and the Android operating system. They will need to understand the Android SDK, 
+different versions of Android, and how these two things interact. An Android developer may need to know Java, Kotlin, C++, or all three languages and will need 
+to understand the basics of SQL and XML. Java and Kotlin are programming languages used with Android, while SQL is used for database work, and XML is used for markup. 
+Android developers should generally be competent programmers who understand both back-end and front-end development, emphasizing back-end or full-stack engineering. 
+In terms of front-end knowledge, they should know the basics of UI (user interfaces) and UX (user experience). Android developers may work alone or in teams and may 
+also need knowledge of project management strategies such as Agile.
