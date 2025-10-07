@@ -1,0 +1,15 @@
+Kotlin- Open source and static language.
+Supports both Object-oriented and functional programming
+Runs on JVM
+
+Static  Language-(Kotlin,Java, C#)
+Type defined in starting
+String name="David"
+int age = "20"
+
+Dynamic Language-(Python, JS)
+Variable determined at runtime
+name="David"
+age="20"
+
+In Android Studio -> there is Java to kotlin converter
